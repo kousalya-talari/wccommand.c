@@ -1,0 +1,1 @@
+# wccommand.c
